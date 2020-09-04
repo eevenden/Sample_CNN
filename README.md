@@ -1,2 +1,2 @@
-# Sample_Sentinel_CNN
-I developing a sample CNN to analyze Sentinel-2A Imagery
+# Sample_CNN
+I developing a sample CNN to analyze GoogleEarth Imagery
